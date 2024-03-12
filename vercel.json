@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/receive-image": {
+        "handler": "receive_image.app"
+      }
+    }
+  }
+  
