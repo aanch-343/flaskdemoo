@@ -1,7 +1,7 @@
 {
     "functions": {
       "api/receive-image": {
-        "handler": "receive_image.app"
+        "runtime": "python3.8"
       }
     }
   }
